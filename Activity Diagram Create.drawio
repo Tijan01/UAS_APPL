@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T15:24:40.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="NgHYomMX1OISZKIp7xmN" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T15:25:13.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="iRT3dO51xuWT5YffYxHU" version="20.8.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2723" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3413" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="HRD" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="128" width="620" height="570" as="geometry" />
+          <mxGeometry x="-1090" y="128" width="620" height="570" as="geometry" />
         </mxCell>
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
           <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
@@ -46,7 +46,7 @@
           <mxGeometry x="390" y="285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Sistem" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="440" y="128" width="425.5" height="570" as="geometry" />
+          <mxGeometry x="-470" y="128" width="425.5" height="570" as="geometry" />
         </mxCell>
         <mxCell id="dArptHiWdp23nT406EOg-42" value="menampilkan menu recuitment" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);rounded=1;" parent="3" vertex="1">
           <mxGeometry x="140.5" y="112" width="120" height="60" as="geometry" />
@@ -78,7 +78,7 @@
         <mxCell id="dArptHiWdp23nT406EOg-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dArptHiWdp23nT406EOg-42" target="dArptHiWdp23nT406EOg-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="350" />
+              <mxPoint x="-260" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -89,10 +89,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dArptHiWdp23nT406EOg-64" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="150" y="405" width="40" height="30" as="geometry" />
+          <mxGeometry x="-760" y="405" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dArptHiWdp23nT406EOg-65" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="485" width="40" height="30" as="geometry" />
+          <mxGeometry x="-790" y="485" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
