@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T03:59:02.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="dBzR226uM2HUR-JcChSB" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T05:36:56.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KTZAJbTPjjqYeafVgq9n" version="20.6.0" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1425" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="b1CHY-cMupSi3q35blBc-46" value="memilih lowongan yang ada" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);rounded=1;" parent="b1CHY-cMupSi3q35blBc-41" vertex="1">
           <mxGeometry x="60.5" y="192" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lv6QTMjX_OQFczKJ63qD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b1CHY-cMupSi3q35blBc-41" source="Lv6QTMjX_OQFczKJ63qD-1" target="Lv6QTMjX_OQFczKJ63qD-3" edge="1">
+        <mxCell id="Lv6QTMjX_OQFczKJ63qD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="b1CHY-cMupSi3q35blBc-41" source="Lv6QTMjX_OQFczKJ63qD-1" target="Lv6QTMjX_OQFczKJ63qD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lv6QTMjX_OQFczKJ63qD-1" value="menekan tombol edit" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);rounded=1;" parent="b1CHY-cMupSi3q35blBc-41" vertex="1">
