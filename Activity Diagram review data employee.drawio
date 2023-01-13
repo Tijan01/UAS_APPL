@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T10:51:48.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="484mf769Euo0sAPCrrSP" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T02:29:29.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wCn8Zq1fasGO3tt_bmdF" version="20.8.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1485" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1999" dy="2023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SPDB-RYZYYu29DdNVvm_-6" value="Calon Employee" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
+        <mxCell id="SPDB-RYZYYu29DdNVvm_-6" value="HRD" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="-980" y="30" width="370" height="890" as="geometry" />
         </mxCell>
         <mxCell id="SPDB-RYZYYu29DdNVvm_-9" value="Menekan menu evaluasi" style="rounded=1;whiteSpace=wrap;html=1;" parent="SPDB-RYZYYu29DdNVvm_-6" vertex="1">
