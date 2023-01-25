@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T15:44:02.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zb_s8N33bFari1lJbj0O" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T15:44:49.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="oRcyR9FgOowbe9hXVRnb" version="20.8.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="937" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="703" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -128,13 +128,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WPADO_OaFezwsDcj6c0u-38" value="Menyimpan Gambar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WPADO_OaFezwsDcj6c0u-38" value="Menyimpan Data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="160" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WPADO_OaFezwsDcj6c0u-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WPADO_OaFezwsDcj6c0u-39" target="WPADO_OaFezwsDcj6c0u-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WPADO_OaFezwsDcj6c0u-39" value="Input Gambar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WPADO_OaFezwsDcj6c0u-39" value="Input Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
